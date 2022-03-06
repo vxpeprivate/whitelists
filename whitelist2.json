@@ -1,6 +1,8 @@
 {
   "players": {},
-  "owners": {},
+  "owners": {
+    "351875313388617729": "c8eec9b8f692017b1eb9af2ac3346d9791711ef96f4bbaf9f342283b54f7e578b3191a112b86605ba1b7c153c22412ddfbecb98ea80993924ca5efcf6387cc2f"
+  },
   "chattags": {
     "a": {
       "NameColor": {
