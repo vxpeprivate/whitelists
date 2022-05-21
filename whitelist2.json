@@ -54,6 +54,23 @@
           "TagText": "VAPE OWNER SIMP"
         }
       ]
+    },
+    "a067ba2247b0bf65df97d58d2e152b9018b569b4a27ab0880215d1fae4cabe84f4f1b933874ff09a4ea58602d2e0dff5481256e2b83b741edf5583abba5fd130": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "GAY"
+        }
+      ]
     }
   }
 }
