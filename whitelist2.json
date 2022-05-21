@@ -37,6 +37,23 @@
           "TagText": "VAPE OWNER SIMP"
         }
       ]
+    },
+    "733515eeec8acb3d13da68ac0c059cbfeaff5adfb08783dd66f00539c95ff15cec211e120e99414578902d08071772d5365c5d9a96b8c5f9b149fc7bc6a3d589": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER SIMP"
+        }
+      ]
     }
   }
 }
