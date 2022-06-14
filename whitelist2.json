@@ -242,6 +242,23 @@
           "TagText": "VAPE OWNER"
         }
       ]
+    },
+    "9118103e5caba1c65fcb8d7de52cd53ed31ee7110b3d0e1a5b6561b4a4a39c15946ebee5cc028c429fa618cb91c90591401ca43503a9eec41b702165a03b19f5": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
+        }
+      ]
     }
   }
 }
