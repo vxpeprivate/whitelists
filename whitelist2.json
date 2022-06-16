@@ -343,6 +343,21 @@
         },
         "TagText": "CUSTO VAPE OWNER"
       }
+    },
+    "709094619161296939": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 255,
+          "b": 0
+        },
+        "TagText": "STUPIDITY"
+      }
     }
   }
 }
