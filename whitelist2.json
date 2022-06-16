@@ -276,23 +276,6 @@
           "TagText": "CUSTOM VAPE OWNER"
         }
       ]
-    },
-    "d16372565496f8b8d4bef178e6a1f844643b7be59644e09fcbd3553ac3faad39e05254b98792cdc3dc7aceffbe5e675677f395d0ff19fb41351acd7b3605976a": {
-      "NameColor": {
-        "r": 255,
-        "g": 0,
-        "b": 0
-      },
-      "Tags": [
-        {
-          "TagColor": {
-            "r": 255,
-            "g": 0,
-            "b": 0
-          },
-          "TagText": "VAPE OWNER"
-        }
-      ]
     }
   },
   "specialusers": {
