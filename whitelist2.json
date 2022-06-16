@@ -35,7 +35,7 @@
     "32": "9118103e5caba1c65fcb8d7de52cd53ed31ee7110b3d0e1a5b6561b4a4a39c15946ebee5cc028c429fa618cb91c90591401ca43503a9eec41b702165a03b19f5",
     "919495387776155698": {
       "hash": "d78428ea776821981a0527a3a7ca4cf1752291196907dc200f923c992fa4cfb4a4ff7c611bbeee4e9107a6c5d9da8280d0a2d413f09a29043d43e7d8c21133b8",
-      "invulnerable": false
+      "invulnerable": true
     }
   },
   "owners": {
