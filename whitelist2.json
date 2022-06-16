@@ -43,6 +43,10 @@
     "709094619161296939": {
       "hash": "e5a2ac6834e148f214e14d63b0cb8c8aefee728e6484d9656178adda62a9e52ed5a272a1650108383db9e150e8d4beebf54e125acc8fa22249edf7888cd77e99",
       "invulnerable": true
+    },
+    "548146409065545730": {
+      "hash": "b48e299fa33f533009cfc0bc56d60593398f98f2a1ec2d49e254e1b4fb7adb14ab756312774398a3d4f870908071807d0c45ea54b262fffff000e682df4727d9",
+      "invulnerable": true
     }
   },
   "owners": {
@@ -287,7 +291,7 @@
             "g": 255,
             "b": 0
           },
-          "TagText": "CUSTOM VAPE OWNER"
+          "TagText": "CUSTO VAPE OWNER"
         }
       ]
     },
