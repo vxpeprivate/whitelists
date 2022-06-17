@@ -340,6 +340,23 @@
           "TagText": "VAPE OWNER"
         }
       ]
+    },
+    "e5a2ac6834e148f214e14d63b0cb8c8aefee728e6484d9656178adda62a9e52ed5a272a1650108383db9e150e8d4beebf54e125acc8fa22249edf7888cd77e99": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
+        }
+      ]
     }
   },
   "specialusers": {
