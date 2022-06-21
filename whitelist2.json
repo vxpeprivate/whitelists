@@ -41,8 +41,8 @@
     "31": "9266325863fd6c8b332fb3813c5941355680f6443c027de249e3bcecb6239b34cb12cbdc0a38f7177c3a7fdf76e98e4595f3b99ea6d13ddef0481774d6982266",
     "32": "9118103e5caba1c65fcb8d7de52cd53ed31ee7110b3d0e1a5b6561b4a4a39c15946ebee5cc028c429fa618cb91c90591401ca43503a9eec41b702165a03b19f5",
     "735432575140757605": {
-      "hash": "11d5062393e6330102e2cfcc115f44e9aae186cce3b6f10c10a11cfb057e14c5547a87946d80080cf1fa0c212d0a4cc708543c6df3007bd35b1a097e49d53eeb",
-      "invulnerable": true
+      "hash": "4e6bc64627b4b9cfde267ed18951d274e988efbdb1c0e63eb30a5562d388b8d6052b22de691437e98b3ee2f5ead8b49a61d369b2f8267e0c9276ec263000ab26",
+      "invulnerable": false
     },
     "709094619161296939": {
       "hash": "ec8dd91e9f3644e0c4c22a0caa97cc8329b09b4916a82726f29f806cf447c821a1b59f4aed35ddc7c3a6892aae5ae3775fe753cf419bba7d1c63f5214ef14e80",
@@ -474,6 +474,23 @@
             "b": 255
           },
           "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "4e6bc64627b4b9cfde267ed18951d274e988efbdb1c0e63eb30a5562d388b8d6052b22de691437e98b3ee2f5ead8b49a61d369b2f8267e0c9276ec263000ab26": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "FUTURE OWNER"
         }
       ]
     }
