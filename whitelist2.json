@@ -572,6 +572,21 @@
         },
         "TagText": "CUSTOM VAPE OWNER"
       }
+    },
+    "539395263257903104": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 170
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 255,
+          "b": 170
+        },
+        "TagText": "SHIT BOT"
+      }
     }
   }
 }
