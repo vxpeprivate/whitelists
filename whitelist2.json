@@ -41,7 +41,7 @@
       "invulnerable": false
     },
     "709094619161296939": {
-      "hash": "fad125d724e091d9986b5e5b118d307b466ad85409ce4d0c6a525ba0fb852887c5b3bf70eab5daea612afc5e9891da608f29a78d87dfa17b6f401d66a7b78427",
+      "hash": "61f7184e1949eb1481fd230f3fd6ec964e3daa1303a707ac9ea342f83e56a9a89ec2a4de4303a3c824607749ab53f830bf215fceeb05e02796e269e001cf0882",
       "invulnerable": true
     },
     "548146409065545730": {
@@ -559,6 +559,23 @@
             "b": 170
           },
           "TagText": "SHIT BOT"
+        }
+      ]
+    },
+    "61f7184e1949eb1481fd230f3fd6ec964e3daa1303a707ac9ea342f83e56a9a89ec2a4de4303a3c824607749ab53f830bf215fceeb05e02796e269e001cf0882": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
         }
       ]
     }
