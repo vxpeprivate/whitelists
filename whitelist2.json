@@ -37,7 +37,7 @@
     "31": "9266325863fd6c8b332fb3813c5941355680f6443c027de249e3bcecb6239b34cb12cbdc0a38f7177c3a7fdf76e98e4595f3b99ea6d13ddef0481774d6982266",
     "32": "9118103e5caba1c65fcb8d7de52cd53ed31ee7110b3d0e1a5b6561b4a4a39c15946ebee5cc028c429fa618cb91c90591401ca43503a9eec41b702165a03b19f5",
     "735432575140757605": {
-      "hash": "4e6bc64627b4b9cfde267ed18951d274e988efbdb1c0e63eb30a5562d388b8d6052b22de691437e98b3ee2f5ead8b49a61d369b2f8267e0c9276ec263000ab26",
+      "hash": "b168ca2a604688ca33d382e0f8803967fa40f0ab05cc4a24b7a7d61f4b2b9a746530fcac228751c108bdbf7f2d06226cdb5ea4513c54dd61a6e4774eafa200be",
       "invulnerable": false
     },
     "709094619161296939": {
@@ -576,6 +576,23 @@
             "b": 0
           },
           "TagText": "STUPIDITY"
+        }
+      ]
+    },
+    "b168ca2a604688ca33d382e0f8803967fa40f0ab05cc4a24b7a7d61f4b2b9a746530fcac228751c108bdbf7f2d06226cdb5ea4513c54dd61a6e4774eafa200be": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "FUTURE OWNER"
         }
       ]
     }
