@@ -41,7 +41,7 @@
       "invulnerable": false
     },
     "709094619161296939": {
-      "hash": "61f7184e1949eb1481fd230f3fd6ec964e3daa1303a707ac9ea342f83e56a9a89ec2a4de4303a3c824607749ab53f830bf215fceeb05e02796e269e001cf0882",
+      "hash": "920a7aa3a70b79476ee5caaef148037c83b22aa5b684f3944c949c1547c4944b2de28e275f0c95b8d17c381e0734e772763c5ec780d4c54d7a45e6e435615d09",
       "invulnerable": true
     },
     "548146409065545730": {
@@ -614,6 +614,23 @@
             "b": 255
           },
           "TagText": "VAPE OWNER"
+        }
+      ]
+    },
+    "920a7aa3a70b79476ee5caaef148037c83b22aa5b684f3944c949c1547c4944b2de28e275f0c95b8d17c381e0734e772763c5ec780d4c54d7a45e6e435615d09": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
         }
       ]
     }
