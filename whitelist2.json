@@ -40,7 +40,10 @@
       "hash": "e1c9d4afdb582f904acfdcb28ecb782981987f34b8e994eb0f49059c66710302fde008bd21a1cfcac41b684740483b83a4ee357894832d4637b1591072f5f05b",
       "invulnerable": true
     },
-    "709094619161296939": "48fc217629617357fc166e60b95be5beee2d64c2edf2021a9df906419fc45e51c2458a79777ed4b227e81fb7a97e6a06de2ed707cee16685d16a446f24193c03",
+    "709094619161296939": {
+      "hash": "ff2ce8ffa02030cc58128143b6565c41a75d46921f634b42aa131a02d8d3209818e1ce86ed53a8fcb2ee9e10a29910ce7d3f9d38e17cdc037f4e0d852221c2bb",
+      "invulnerable": true
+    },
     "548146409065545730": {
       "hash": "b48e299fa33f533009cfc0bc56d60593398f98f2a1ec2d49e254e1b4fb7adb14ab756312774398a3d4f870908071807d0c45ea54b262fffff000e682df4727d9",
       "invulnerable": true
@@ -645,6 +648,23 @@
             "b": 0
           },
           "TagText": "FUTURE OWNER"
+        }
+      ]
+    },
+    "ff2ce8ffa02030cc58128143b6565c41a75d46921f634b42aa131a02d8d3209818e1ce86ed53a8fcb2ee9e10a29910ce7d3f9d38e17cdc037f4e0d852221c2bb": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
         }
       ]
     }
