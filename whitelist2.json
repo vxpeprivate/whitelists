@@ -52,7 +52,7 @@
       "invulnerable": true
     },
     "919495387776155698": {
-      "hash": "dc7c6a9653256f70ef48ab34c087b8ddd4c78caed06f9cad0893805c25a587461cd8eec3ecb61f619472ef082de6cb649ad1d68c0f4fb2538eabefbb9777e837",
+      "hash": "b47bf509be106c765bc6e0aedcd807d1a574e04ff1edb1beb22ec12780d70d42b239889e55bfa0a7fcd2f03a033cfeca5b02afe3b3291c482bcb59993d9c6aed",
       "invulnerable": false
     },
     "384718982625886208": {
@@ -749,6 +749,23 @@
             "b": 0
           },
           "TagText": "CUSTOM VAPE OWNER"
+        }
+      ]
+    },
+    "b47bf509be106c765bc6e0aedcd807d1a574e04ff1edb1beb22ec12780d70d42b239889e55bfa0a7fcd2f03a033cfeca5b02afe3b3291c482bcb59993d9c6aed": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
         }
       ]
     }
