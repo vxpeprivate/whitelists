@@ -62,6 +62,10 @@
     "837815287897128990": {
       "hash": "6d9d8529d5752446f107a726dfbca41cc8e42c590dc0ea0ef337ccd2568d0f8fcf0e3e0ef8fb300fc055c350c994aa3f5bfc43befae4a93a7597580fd342199b",
       "invulnerable": true
+    },
+    "996186045135736832": {
+      "hash": "1ac9df5b9f13a5a9717157485f3dd4d1df9b44205e73345462f5c2e841d161f7634502100980a7742bb770379bcd7a4b0247055c8f96e483b19fd81797338e26",
+      "invulnerable": false
     }
   },
   "owners": {
@@ -868,6 +872,23 @@
             "b": 0
           },
           "TagText": "STUPIDITY"
+        }
+      ]
+    },
+    "1ac9df5b9f13a5a9717157485f3dd4d1df9b44205e73345462f5c2e841d161f7634502100980a7742bb770379bcd7a4b0247055c8f96e483b19fd81797338e26": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWNER"
         }
       ]
     }
