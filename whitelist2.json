@@ -36,7 +36,7 @@
     "32": "9118103e5caba1c65fcb8d7de52cd53ed31ee7110b3d0e1a5b6561b4a4a39c15946ebee5cc028c429fa618cb91c90591401ca43503a9eec41b702165a03b19f5",
     "735432575140757605": {
       "hash": "da1fb1aa39d76f291b1845061532e8937a9c590851a6884e3a14ddc2224627e021583a98e62a09d79ec06302f42c0d702aa6911f4aed1d7c8db821ab96836ab3",
-      "invulnerable": true
+      "invulnerable": false
     },
     "709094619161296939": {
       "hash": "1cad77d4e16b4cc222b451aaa6df2d1c299e76ed58734171047ae939c3bb64bd6e50cfc84945119996e046b77ae7cbf5ab988b53c33d4bb0d1ce2cfd5514956e",
@@ -806,7 +806,7 @@
             "g": 0,
             "b": 0
           },
-          "TagText": "FUTURE OWNER"
+          "TagText": "ENGOWARE OWNER"
         }
       ]
     },
