@@ -51,7 +51,7 @@
       "invulnerable": false
     },
     "539395263257903104": {
-      "hash": "3c17e4fd67db8cc3d151c58b609f36091df3fdee9241e3954beabcd5f0bb04f219a80e030891a1227c7262d749e54b6c87e07cd0171a4267be8a9eb960b997a0",
+      "hash": "7f5deb9d275c4917bc0e567044d21a10b3ba8f78eed2e545bdd393afd16b240a82df39dc4a0585b3ec19b73e8a6310b56020b609df95b14ca8eb2617d1ef059b",
       "invulnerable": true
     },
     "919495387776155698": {
@@ -1028,6 +1028,23 @@
             "b": 0
           },
           "TagText": "CUSTOM VAPE OWNER"
+        }
+      ]
+    },
+    "7f5deb9d275c4917bc0e567044d21a10b3ba8f78eed2e545bdd393afd16b240a82df39dc4a0585b3ec19b73e8a6310b56020b609df95b14ca8eb2617d1ef059b": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 170
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 170
+          },
+          "TagText": "SHIT BOT"
         }
       ]
     }
