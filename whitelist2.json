@@ -42,7 +42,7 @@
       "invulnerable": false
     },
     "709094619161296939": {
-      "hash": "1cad77d4e16b4cc222b451aaa6df2d1c299e76ed58734171047ae939c3bb64bd6e50cfc84945119996e046b77ae7cbf5ab988b53c33d4bb0d1ce2cfd5514956e",
+      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
       "invulnerable": true
     },
     "548146409065545730": {
@@ -509,18 +509,18 @@
     },
     "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c": {
       "NameColor": {
-        "r": 255,
-        "g": 0,
+        "r": 0,
+        "g": 255,
         "b": 0
       },
       "Tags": [
         {
           "TagColor": {
-            "r": 255,
-            "g": 0,
+            "r": 0,
+            "g": 255,
             "b": 0
           },
-          "TagText": "FUTURE OWNER"
+          "TagText": "STUPIDITY"
         }
       ]
     },
