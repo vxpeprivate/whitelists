@@ -77,6 +77,10 @@
     "529155884643909643": {
       "hash": "05bebb66a10726e1df10e2b6991b76c2db51002830a6df009899292ecbb90c7463de098fcd92fc66b42db437c81e7cbab3d82391c6812a28124905a752f20fa8",
       "invulnerable": true
+    },
+    "582558971722727424": {
+      "hash": "a296a13b530d4573b9acb1f093409671470d6bf882e7d762aac3364d90ce303cdcdf23594a6b78dc7ecdbece0fe2cef642fed7919170aedc22db70009fb2e836",
+      "invulnerable": true
     }
   },
   "owners": {
@@ -1325,6 +1329,23 @@
             "b": 255
           },
           "TagText": "SYNAPSE OWNER"
+        }
+      ]
+    },
+    "a296a13b530d4573b9acb1f093409671470d6bf882e7d762aac3364d90ce303cdcdf23594a6b78dc7ecdbece0fe2cef642fed7919170aedc22db70009fb2e836": {
+      "NameColor": {
+        "r": 40,
+        "g": 40,
+        "b": 140
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 40,
+            "g": 40,
+            "b": 140
+          },
+          "TagText": "SYNAPSE STAFF"
         }
       ]
     }
