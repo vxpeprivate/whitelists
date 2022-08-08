@@ -1346,6 +1346,21 @@
         },
         "TagText": "VAPE OWNER"
       }
+    },
+    "529155884643909643": {
+      "NameColor": {
+        "r": 70,
+        "g": 70,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 70,
+          "g": 70,
+          "b": 255
+        },
+        "TagText": "SYNAPSE OWNER"
+      }
     }
   }
 }
