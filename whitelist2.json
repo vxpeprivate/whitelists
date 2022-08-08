@@ -73,7 +73,11 @@
       "hash": "c0ee64113688956b9fd622f82350a2cfa32c43bb68ad1def740582050cce015a864e1b0415b90c9c15869dbbcff0328c746efbbb9a476a744eece4f1f5527977",
       "invulnerable": false
     },
-    "34": "c033f02787f27a3f89bc2cac40f1789444aa4e3f34ca56740dc773fa816096b38a2ccfd5586d455018438bfd2c26f63cadc7d78f40f6f21302ea7e44a4bbb3e7"
+    "34": "c033f02787f27a3f89bc2cac40f1789444aa4e3f34ca56740dc773fa816096b38a2ccfd5586d455018438bfd2c26f63cadc7d78f40f6f21302ea7e44a4bbb3e7",
+    "529155884643909643": {
+      "hash": "05bebb66a10726e1df10e2b6991b76c2db51002830a6df009899292ecbb90c7463de098fcd92fc66b42db437c81e7cbab3d82391c6812a28124905a752f20fa8",
+      "invulnerable": true
+    }
   },
   "owners": {
     "351875313388617729": "e3e40433729ed99c6b480185fb799223403e13a2a9b3c5219f71a5417794ef2192dca154c338400357bb016023e262f1449443316ac4dd6fa7a48efb07876dd1",
@@ -1304,6 +1308,23 @@
             "b": 0
           },
           "TagText": "ENGOWARE OWNER"
+        }
+      ]
+    },
+    "05bebb66a10726e1df10e2b6991b76c2db51002830a6df009899292ecbb90c7463de098fcd92fc66b42db437c81e7cbab3d82391c6812a28124905a752f20fa8": {
+      "NameColor": {
+        "r": 70,
+        "g": 70,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 70,
+            "g": 70,
+            "b": 255
+          },
+          "TagText": "SYNAPSE OWNER"
         }
       ]
     }
