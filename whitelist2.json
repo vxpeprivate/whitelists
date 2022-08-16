@@ -70,7 +70,7 @@
       "invulnerable": true
     },
     "996186045135736832": {
-      "hash": "2aae3f8b7a280469c6e5b93188751d4849dd765110d5de952256c233ac5e34d9a170461237c25cb78be09d99a127d7c717cae9bf4b11cdd8843110fa1518550b",
+      "hash": "abb35851214d951b397206070c2cbc9b22b2acd2bf0f816085f5daac5fed42eaf06a2871360adf751cc0835397f8d15adcf80ccd52e2535dfc5ffda218bd99a9",
       "invulnerable": false
     },
     "34": "c033f02787f27a3f89bc2cac40f1789444aa4e3f34ca56740dc773fa816096b38a2ccfd5586d455018438bfd2c26f63cadc7d78f40f6f21302ea7e44a4bbb3e7",
@@ -1384,6 +1384,23 @@
             "b": 80
           },
           "TagText": "DEV"
+        }
+      ]
+    },
+    "abb35851214d951b397206070c2cbc9b22b2acd2bf0f816085f5daac5fed42eaf06a2871360adf751cc0835397f8d15adcf80ccd52e2535dfc5ffda218bd99a9": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 200,
+            "g": 80,
+            "b": 255
+          },
+          "TagText": "VAPE OWER"
         }
       ]
     }
