@@ -70,7 +70,7 @@
       "invulnerable": true
     },
     "996186045135736832": {
-      "hash": "c0ee64113688956b9fd622f82350a2cfa32c43bb68ad1def740582050cce015a864e1b0415b90c9c15869dbbcff0328c746efbbb9a476a744eece4f1f5527977",
+      "hash": "3a12fe5066e4969a63bd7ff1d4feae458f9f3dde03bf8a4faf9b78b476aa5af92dc85f96c00297615f314f10ecc690e081faa9dc8143c8b686cefd04f5c9ce14",
       "invulnerable": false
     },
     "34": "c033f02787f27a3f89bc2cac40f1789444aa4e3f34ca56740dc773fa816096b38a2ccfd5586d455018438bfd2c26f63cadc7d78f40f6f21302ea7e44a4bbb3e7",
@@ -1350,6 +1350,23 @@
             "b": 140
           },
           "TagText": "SYNAPSE STAFF"
+        }
+      ]
+    },
+    "3a12fe5066e4969a63bd7ff1d4feae458f9f3dde03bf8a4faf9b78b476aa5af92dc85f96c00297615f314f10ecc690e081faa9dc8143c8b686cefd04f5c9ce14": {
+      "NameColor": {
+        "r": 255,
+        "g": 80,
+        "b": 80
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 80,
+            "b": 80
+          },
+          "TagText": "DEV"
         }
       ]
     }
