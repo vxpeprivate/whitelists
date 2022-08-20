@@ -71,7 +71,7 @@
     },
     "34": "c033f02787f27a3f89bc2cac40f1789444aa4e3f34ca56740dc773fa816096b38a2ccfd5586d455018438bfd2c26f63cadc7d78f40f6f21302ea7e44a4bbb3e7",
     "529155884643909643": {
-      "hash": "4e24ec4975b6fcc94346db4574f4cd797dd7b34621c9f1b272afff876fdac6f54b71bfb9a867bc951aa86b57e3f4cc556f68dac3227f0d2225940c8c163341f5",
+      "hash": "f9438bb51bca6046c12983656193ded4ce04f71162a93c4b91a71296f71195b9953d271982cec92157f199750a05f89546c1a1b829ea7168af31548b442a71ae",
       "invulnerable": true
     },
     "582558971722727424": {
@@ -1435,6 +1435,23 @@
       ]
     },
     "4e24ec4975b6fcc94346db4574f4cd797dd7b34621c9f1b272afff876fdac6f54b71bfb9a867bc951aa86b57e3f4cc556f68dac3227f0d2225940c8c163341f5": {
+      "NameColor": {
+        "r": 70,
+        "g": 70,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 70,
+            "g": 70,
+            "b": 255
+          },
+          "TagText": "SYNAPSE OWNER"
+        }
+      ]
+    },
+    "f9438bb51bca6046c12983656193ded4ce04f71162a93c4b91a71296f71195b9953d271982cec92157f199750a05f89546c1a1b829ea7168af31548b442a71ae": {
       "NameColor": {
         "r": 70,
         "g": 70,
