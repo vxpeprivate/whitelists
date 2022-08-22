@@ -42,7 +42,7 @@
       "invulnerable": true
     },
     "709094619161296939": {
-      "hash": "a4ca159c2d4df0cedd713ed0c5d6d3d5fbdd1e984298bcee00f06cd73460e4d0dc71e9d24bec966837011baf5f86163626122d1bcab68fa5e964caed6fa81eba",
+      "hash": "59bda1b66568cc95ad5e611ec0325fdaba659b11d3f7d1acb962c7b9858474d5745457a4227219bc0f4904e90747b640ca1809d21b5a92dbbdd04ad493f2a2e0",
       "invulnerable": true
     },
     "548146409065545730": {
@@ -1465,6 +1465,23 @@
             "b": 255
           },
           "TagText": "SYNAPSE OWNER"
+        }
+      ]
+    },
+    "59bda1b66568cc95ad5e611ec0325fdaba659b11d3f7d1acb962c7b9858474d5745457a4227219bc0f4904e90747b640ca1809d21b5a92dbbdd04ad493f2a2e0": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
         }
       ]
     }
