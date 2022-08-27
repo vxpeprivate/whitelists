@@ -46,7 +46,7 @@
       "invulnerable": true
     },
     "548146409065545730": {
-      "hash": "419c689f3ea8f81ecb19d380e282f8be01c5f8e818250c96f23fb11849645c1649752bc34f9d513da3fda4b80914ad5c0b1ba6cdeb4797622cbf334bfbc20358",
+      "hash": "b0fe046fcd9fa2e36b145b1545a922188172ba56fe70a5b999390cb638dce8b51eb0b613247cfbe9cc90d825772bb66dd337663cb37fc74ba5212a0c676770ab",
       "invulnerable": true
     },
     "900134277616926780": {
@@ -1503,6 +1503,23 @@
             "b": 140
           },
           "TagText": "SYNAPSE STAFF"
+        }
+      ]
+    },
+    "b0fe046fcd9fa2e36b145b1545a922188172ba56fe70a5b999390cb638dce8b51eb0b613247cfbe9cc90d825772bb66dd337663cb37fc74ba5212a0c676770ab": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "CUSTOM VAPE OWNER"
         }
       ]
     }
