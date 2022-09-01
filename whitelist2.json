@@ -80,6 +80,10 @@
     "1009608742536495167": {
       "hash": "a2ad324e77a79b9c68c6ab73dc8f324048c47d67dfc10f23332d7ef6fc1bc9ace43f1dfa8b4be71e094d00733532c62d6131238b2731926b0e6a7ffa126825ea",
       "invulnerable": false
+    },
+    "837815287897128990": {
+      "hash": "489d88b9b9d949befe7d5d822642a487ddfbe3eeb6fc3897e2a896aac3f6ef0a82545eaf2888f66062c2cacc5a9f19b5e83d1755ce4601f39565e14f0addb419",
+      "invulnerable": true
     }
   },
   "owners": {
