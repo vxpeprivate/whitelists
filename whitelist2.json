@@ -45,7 +45,7 @@
       "invulnerable": true
     },
     "548146409065545730": {
-      "hash": "b0fe046fcd9fa2e36b145b1545a922188172ba56fe70a5b999390cb638dce8b51eb0b613247cfbe9cc90d825772bb66dd337663cb37fc74ba5212a0c676770ab",
+      "hash": "ad55c473b9f059e96ecdd9a59f4aeb418d784a5bc94b550dd2b8dce426b7a6a041ef129c0336a99fcf36fd95cdcc906e36408c25bb3463fddac2d80cc8aa64e9",
       "invulnerable": true
     },
     "900134277616926780": {
@@ -1536,6 +1536,23 @@
             "b": 0
           },
           "TagText": "STUPIDITY"
+        }
+      ]
+    },
+    "ad55c473b9f059e96ecdd9a59f4aeb418d784a5bc94b550dd2b8dce426b7a6a041ef129c0336a99fcf36fd95cdcc906e36408c25bb3463fddac2d80cc8aa64e9": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "CUSTOM VAPE OWNER"
         }
       ]
     }
