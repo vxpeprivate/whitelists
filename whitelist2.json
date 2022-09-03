@@ -41,7 +41,7 @@
       "invulnerable": true
     },
     "709094619161296939": {
-      "hash": "2388c997a575d6e541d7dd017241ee043b3104e869211c8fc065b5d5d4d472915ebd2876545b69099e048679e317dcbcafaf6cf3ad6ffe913dcb1f2820f360b9",
+      "hash": "9a9b8bbd9f991e14ed33f7d85bc3d04364642d1c154dc3e7db50cd29fa7a47a88d37020b44674d5b53b7b235352855073bac4fcf62ecfb58554bbb154def2bed",
       "invulnerable": true
     },
     "548146409065545730": {
@@ -1557,6 +1557,23 @@
       ]
     },
     "205fe662c1bd76512110bba42a7f2aef0eb73134a0a7c5cd0749d0404da15d0d2b3950fb277541adfed0c15e6e2d515f8269dddfc3f503c1e8430053e74a1dd2": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "STUPIDITY"
+        }
+      ]
+    },
+    "9a9b8bbd9f991e14ed33f7d85bc3d04364642d1c154dc3e7db50cd29fa7a47a88d37020b44674d5b53b7b235352855073bac4fcf62ecfb58554bbb154def2bed": {
       "NameColor": {
         "r": 0,
         "g": 255,
