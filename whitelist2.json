@@ -1728,6 +1728,21 @@
         },
         "TagText": "SYNAPSE STAFF"
       }
+    },
+    "1009608742536495167": {
+      "NameColor": {
+        "r": 200,
+        "g": 80,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 200,
+          "g": 80,
+          "b": 255
+        },
+        "TagText": "VAPE ADMIN"
+      }
     }
   }
 }
