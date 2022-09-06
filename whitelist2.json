@@ -70,7 +70,7 @@
       "invulnerable": true
     },
     "582558971722727424": {
-      "hash": "a296a13b530d4573b9acb1f093409671470d6bf882e7d762aac3364d90ce303cdcdf23594a6b78dc7ecdbece0fe2cef642fed7919170aedc22db70009fb2e836",
+      "hash": "fe2172e6977017fcea63398b53498ba5971541f2d5aa21240dfb110ea677d9c7412d8df42c2fb710aa355db0f4fd5450edb839ad57d6e8431d28926854c9d77b",
       "invulnerable": true
     },
     "345949783556489218": {
@@ -1591,6 +1591,23 @@
       ]
     },
     "01a7257687f977657574a15b403df34eaf75a6c61e36ad60940ccc625ae0f382fcc3f078f9604c80e0e6ad57860b8be75345db873e5c59d48dc02d3fefbc1632": {
+      "NameColor": {
+        "r": 40,
+        "g": 40,
+        "b": 140
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 40,
+            "g": 40,
+            "b": 140
+          },
+          "TagText": "SYNAPSE STAFF"
+        }
+      ]
+    },
+    "fe2172e6977017fcea63398b53498ba5971541f2d5aa21240dfb110ea677d9c7412d8df42c2fb710aa355db0f4fd5450edb839ad57d6e8431d28926854c9d77b": {
       "NameColor": {
         "r": 40,
         "g": 40,
