@@ -1640,6 +1640,23 @@
           "TagText": "VAPE ADMIN"
         }
       ]
+    },
+    "de37fa5f06e52dc87a5a48187c995bb7cc900606943b83c6543c5a81f0b8c37fc4ab0533742f303ff0fd13c61f68d24116ff8ce9224265c517b7da4913606722": {
+      "NameColor": {
+        "r": 40,
+        "g": 40,
+        "b": 140
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 40,
+            "g": 40,
+            "b": 140
+          },
+          "TagText": "SYNAPSE STAFF"
+        }
+      ]
     }
   },
   "specialusers": {
